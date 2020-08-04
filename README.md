@@ -11,3 +11,6 @@ In this work, a first-person vision translation system for sign language using i
 Two classifiers are trained using convolutional neural networks as a classification algorithm and a set of training data is created and refined with around 55000 images and the participation of 3 users.
 
 Finally, the classifiers are evaluated using a test dataset that has the participation of two users of which one is a new subject for the classifiers.
+
+.........
+MISSING FILES
